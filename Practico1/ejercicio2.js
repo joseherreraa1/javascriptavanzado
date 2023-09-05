@@ -18,4 +18,5 @@ const gestorContactos = {
   
   // Mostrar en la consola la cantidad total de contactos
   console.log("La cantidad total de contactos es:", gestorContactos.obtenerCantidadTotal());
+  console.log("------------------------");
   

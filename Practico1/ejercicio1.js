@@ -12,3 +12,4 @@ const usuario = {
 const segundoTitulo = usuario.peliculasFavoritas[1].titulo;
 
 console.log("El título de la segunda película favorita es:", segundoTitulo);
+console.log("------------------------");
